@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string-array name="data_name">
+        <item>Tari Topeng Malangan</item>
+        <item>Reog Ponorogo</item>
+        <item>Tari Piring</item>
+        <item>Tari Kecak</item>
+        <item>Wayang Kulit</item>
+        <item>Tari Jaipong</item>
+        <item>Tari Remo</item>
+        <item>Tari Merak</item>
+        <item>Wayang Golek</item>
+        <item>Tari Legong</item>
+        <item>Karapan Sapi</item>
+        <item>Tari Bondan</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Tari topeng Malangan adalah pertunjukkan kesenian tari di mana semua pemerannya menggunakan topeng. Secara umum, cerita yang diangkat sebagai konsep tarian adalah cerita panji. Cerita panji adalah kumpulan cerita yang berasal dari tanah Jawa periode klasik.</item>
+        <item>Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.</item>
+        <item>Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring terlepas dari tangan. Gerakannya diambil dari langkah dalam silat Minangkabau atau silek.</item>
+        <item>Kecak adalah pertunjukan dramatari seni khas Bali yang lebih utama menceritakan mengenai Ramayana dan dimainkan terutama oleh laki-laki. Tarian ini dipertunjukkan oleh banyak (puluhan atau lebih) penari laki-laki yang duduk berbaris melingkar dan dengan irama tertentu menyerukan "cak" dan mengangkat kedua lengan, menggambarkan kisah Ramayana saat barisan kera membantu Rama melawan Rahwana.</item>
+        <item>Wayang kulit adalah seni tradisional Indonesia yang terutama berkembang di Jawa. Wayang berasal dari kata "Ma Hyang" yang artinya menuju kepada roh spiritual, dewa, atau Tuhan Yang Maha Esa. Ada juga yang mengartikan wayang adalah istilah bahasa Jawa yang bermakna "bayangan", hal ini disebabkan karena penonton juga bisa menonton wayang dari belakang kelir atau hanya bayangannya saja.</item>
+        <item>Jaipongan terlahir melalui proses kreatif dari tangan dingin H. Suanda sekitar tahun 1976 di Karawang, Jaipongan merupakan garapan yang menggabungkan beberapa elemen seni tradisi Karawang seperti pencak silat, wayang golek, topeng banjet, ketuk tilu dan lain-lain.</item>
+        <item>Tari Remo berasal dari Kabupaten Jombang, Jawa Timur. Tarian ini berasal dari kecamatan Diwek Di desa Ceweng, tarian ini diciptakan oleh orang yang berprofesi sebagai penari jalanan di kala itu, memang banyak profesi tersebut di Jombang, kini Tarian ini pada akhirnya merupakan tarian yang digunakan sebagai pengantar tarian ludruk.</item>
+        <item>Tari Merak merupakan salah satu ragam tarian kreasi baru yang mengekspresikan kehidupan binatang, yaitu burung merak. Tata cara dan geraknya diambil dari kehidupan merak yang diangkat ke pentas oleh Seniman Sunda Raden Tjetje Somantri.</item>
+        <item>Wayang golek merupakan salah satu dari ragam kesenian wayang yang terbuat dari bahan kayu yang merupakan hasil perkembangan wayang kulit dari keterbatasan waktu supaya dapat ditampilkan pada siang atau malam hari. Pertama kali diperkenalkan oleh Sunan Kudus di daerah Kudus (dikenal Wayang Menak), Cirebon (dikenal Wayang cepak) lalu Parahyangan.</item>
+        <item>Legong merupakan sekelompok tarian klasik Bali yang memiliki pembendaharaan gerak yang sangat kompleks yang terikat dengan struktur tabuh pengiring yang konon merupakan pengaruh dari gambuh. Kata Legong berasal dari kata "leg" yang artinya gerak tari yang luwes atau lentur dan "gong" yang artinya gamelan.</item>
+        <item>Karapan sapi merupakan istilah untuk menyebut perlombaan pacuan sapi yang berasal dari Pulau Madura, Jawa Timur. Pada perlombaan ini, sepasang sapi yang menarik semacam kereta dari kayu (tempat joki berdiri dan mengendalikan pasangan sapi tersebut) dipacu dalam lomba adu cepat melawan pasangan-pasangan sapi lain.</item>
+        <item>Tari Bondan ini berasal dari Surakarta,Jawa Tengah.Tarian ini menceritakan bahwa kasih sayang ibu kepada anaknya melalui menggendong bayi dengan payung terbuka dengan hati-hati dan perhatian.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://malangchannel.com/wp-content/uploads/2019/11/14255465683_14d27505cb_b.jpg</item>
+        <item>http://fs.genpi.co/uploads/data/images/2019/REYOG%202.jpg</item>
+        <item>https://taritradisional.files.wordpress.com/2015/08/properti-tari-piring.jpg</item>
+        <item>https://www.gotravelaindonesia.com/wp-content/uploads/Tari-kecak-uluwatu.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/ca/Wayang_Performance.jpg</item>
+        <item>https://blogkulo.com/wp-content/uploads/2018/06/Tari-Jaipong-Jawa-Barat.jpg</item>
+        <item>https://seringjalan.com/wp-content/uploads/2020/04/03-tari-remo-untuk-wanita-816x487.jpg</item>
+        <item>https://i.pinimg.com/originals/28/b8/b9/28b8b948326c3c3dd8582ae5702ab6ec.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wayang_golek_SF_Asian_Art_Museum.JPG/1200px-Wayang_golek_SF_Asian_Art_Museum.JPG</item>
+        <item>https://seringjalan.com/wp-content/uploads/2020/04/Tari-Legong-Berasal-Dari-Bali.jpg</item>
+        <item>https://i1.wp.com/matamaduranews.com/wp-content/uploads/2017/02/Kerapan-Sapi.jpg</item>
+        <item>https://sekolahnesia.com/wp-content/uploads/2020/02/properti-tari-bondan.jpg</item>
+    </string-array>
+</resources>
